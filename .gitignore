@@ -1,0 +1,15 @@
+# fichiers IDE
+.vscode
+
+# fichiers macos
+.DS_Store
+
+# fichiers c compilés
+.o
+out
+jsh
+
+# fichiers fournis 
+sujet.md*
+projet.md
+.sy5-2023-2024-projet-jsh-autotests.nosync
